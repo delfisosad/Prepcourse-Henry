@@ -1,2 +1,2 @@
-# Prepcourse-Henry1
-Este es un repositorio de prueba del modulo2
+    Este es una prueba de como crear un repositorio desde githube y clonardo en VSC
+    
